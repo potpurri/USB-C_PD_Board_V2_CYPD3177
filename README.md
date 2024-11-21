@@ -8,6 +8,7 @@ This PCB is designed to provide selectable output voltages and currents using th
 - **Selectable Output Voltage**: 5V, 9V, 12V, 15V, or 20V.
 - **Selectable Output Current**: 1A, 2A, 3A, 4A, or 5A.
 - **Compact Design**: Suitable for a variety of applications, including power tools, wearables, IoT devices, and more.
+- **Turn ON Switch**: Switch to turn ON/OFF module.
 
 ## Voltage and Current Settings
 
@@ -36,6 +37,7 @@ The output voltage and current can be adjusted using switches on the PCB. SW1 is
 
 ### 3D Renderings
 - Front View: ![3D Front](imgs/3d-front.png)
+- Front View without components: ![3D Front, no components](imgs/3d-front-empty.png)
 - Back View: ![3D Back](imgs/3d-back.png)
 
 ### PCB
